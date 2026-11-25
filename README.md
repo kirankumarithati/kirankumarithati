@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Kiran Kumari Thati
 
-<!--
-**kirankumarithati/kirankumarithati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 M.Tech 1st Year Student | Vignan University
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a postgraduate Computer Science student passionate about software development, emerging technologies, database management, and AI-powered applications.
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing M.Tech 1st Year at Vignan University.
+- 💻 Interested in Software Development and Full Stack Development.
+- 🌱 Exploring Python, Java, Web Technologies, and AI.
+- ☁️ Interested in Salesforce CRM and ServiceNow development.
+- 🚀 Passionate about building real-world projects and learning new technologies.
+- 🎯 Aspiring to become a skilled Software Developer.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- Python
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Database & Tools**
+- DBMS
+- MySQL
+- MongoDB
+
+**Platforms**
+- ServiceNow
+- Salesforce CRM
+
+## 🏆 Certifications
+
+- ServiceNow Certified System Administrator (CSA)
+- ServiceNow Certified Application Developer (CAD)
+- Salesforce AI Agent Developer – LastMile Program
+
+## 📂 Academic Projects
+
+**1. AI-Based Water Quality Monitoring System Using Multiple Sensors & IoT**
+- Developed a hardware-software telemetry pipeline.
+- Used machine learning to analyze sensor metrics and generate contamination alerts.
+
+**2. Smart Waste Management Tracker Using Salesforce CRM**
+- Designed an automated waste management tracking framework.
+- Configured custom objects, fields, and cloud workflows.
+
+## 💡 Strengths
+
+- Quick Learner
+- Team Player
+- Communication Skills
+- Adaptability
+
+## 🌐 Languages
+
+- English
+- Telugu
+
+## 🎯 Career Goal
+
+To continuously improve my technical skills, work on innovative projects, and build a successful career in the IT industry.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
